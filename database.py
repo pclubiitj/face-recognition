@@ -16,11 +16,11 @@ class Image(Base):
 
 db.connect()
 conn = psycopg2.connect(
-  dbname="database_name",
-  user="username",
-  host='127.0.0.1',
-  password="pass",
-  port=1234
+    dbname="database_name",
+    user="username",
+    host='127.0.0.1',
+    password="pass",
+    port=1234
 )
 db.create_tables(Image)
 

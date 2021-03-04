@@ -1,2 +1,6 @@
 # Credentials JSON file
 client_secrets.json
+folder
+*__pycache__*
+extracted_face/*
+!extracted_face/.keep
