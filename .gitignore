@@ -4,3 +4,4 @@ folder
 *__pycache__*
 extracted_face/*
 !extracted_face/.keep
+face_extractor/face_detection/weights/WIDERFace_DSFD_RES152.pth
