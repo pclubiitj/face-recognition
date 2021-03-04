@@ -1,0 +1,4 @@
+opencv-python
+PyDrive
+psycopg2
+peewee

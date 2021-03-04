@@ -9,7 +9,7 @@ import sys
 from tqdm import tqdm
 
 
-def extractor(img_path, device="cuda", conf_thresh=0.1, target_size=(576, 576), path='face_extractor/face_detection/weights/WIDERFace_DSFD_RES152.pth'):
+def extractor(img_path, device="cuda", conf_thresh=0.1, target_size=(576, 576), path='util/face_detection/weights/WIDERFace_DSFD_RES152.pth'):
 
     device = torch.device(device)
     net = SSD("test")
