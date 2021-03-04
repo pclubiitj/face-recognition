@@ -5,7 +5,7 @@ import numpy as np
 # from database import match
 import matplotlib.pyplot as plt
 from tqdm.autonotebook import tqdm
-from face_extractor.utils import extractor
+from util.utils import extractor
 
 
 def extract_landmark(path, folder_path, file):
