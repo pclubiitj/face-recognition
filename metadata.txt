@@ -1,0 +1,12 @@
+folder/IMG_0970.JPG|folder_face/IMG_0970_1.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_2.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_3.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_4.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_5.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_6.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_7.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_8.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_9.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_10.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_11.jpg
+folder/IMG_0970.JPG|folder_face/IMG_0970_12.jpg
