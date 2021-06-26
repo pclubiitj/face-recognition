@@ -32,4 +32,4 @@ However, to find your photos among the thousands that already exist, a face reco
 | [Saptashrungi](https://github.com/Saptashrungi) | Sophomore | Computer Science And Engineering |
 | [Rohan Singh](https://github.com/rohansingh9001) | Sophomore | Electrical Engineering |
 | [Garvit Garg](https://github.com/Garvit-32) | Sophomore | Electrical Engineering |
-| [Ayush Anand](https://github.com/iamayushanand) | Freshman | Artificial Intelligence and Data Science |
+| [Ayush Anand](https://github.com/iamayushanand) | Freshman | Artificial Intelligence and Data Engineering |
